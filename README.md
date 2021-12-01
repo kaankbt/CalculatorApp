@@ -1,3 +1,3 @@
 # calculatorapp
-small java swing calculator project.
+java swing calculator project.
 
